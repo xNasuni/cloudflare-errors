@@ -24,258 +24,338 @@ return base + extra
 ### possible cloudflare server region names
 
 ```
-Ad Dawhah
-Al 'Asimah
-Al Basrah
-Al Qahirah
-Alaska
-Alberta
-Alger
+Abidjan
+Accra
+Adelaide
+Ahmedabad
+Albuquerque
+Algiers
 Almaty
-Amazonas
-An Najaf
+Americana
+Amman
+Amsterdam
+Anchorage
 Annaba
 Antananarivo
-Antioquia
-Ar Riyad
-Arbil
-Arica y Parinacota
-Arizona
-Ash Sharqiyah
+Aracatuba
+Arica
+Ashburn
 Astara
 Asuncion
-Attiki
+Athens
+Atlanta
 Auckland
-Australian Capital Territory
-Auvergne-Rhone-Alpes
-Baden-Wurttemberg
+Austin
 Baghdad
-Bagmati
-Bahia
-Baki
-Bali
-Bayern
-Beograd
+Baku
+Bandar Seri Begawan
+Bangkok
+Bangor
+Barcelona
+Barranquilla
+Basra
+Beihai
+Beijing
+Beirut
+Belgrade
+Belo Horizonte
+Belém
+Bengaluru
 Berlin
-Beyrouth
-Bihar
-Biobio
-Bratislavsky kraj
-British Columbia
-Brunei-Muara
-Brussels Hoofdstedelijk Gewest
-Bucuresti
+Bhubaneshwar
+Blumenau
+Bogota
+Bordeaux
+Boston
+Brasília
+Bratislava
+Bridgetown
+Brisbane
+Brussels
+Bucharest
 Budapest
-California
-Canterbury
-Casablanca-Settat
-Catalunya
-Ceara
+Buenos Aires
+Buffalo
+Cagayan
+Cairo
+Calgary
+Campinas
+Campos dos Goytacazes
+Canberra
+Cape Town
+Casablanca
+Caçador
 Cebu
-Centar
-Central
 Chandigarh
-Chattogram
+Changde
+Changsha
+Changzhou
+Chapeco
+Charlotte
+Chengmai
+Chennai
 Chiang Mai
-Chisinau
-Ciudad Autonoma de Buenos Aires
-Ciudad de Mexico
-Colorado
+Chicago
+Chittagong
+Chongqing
+Christchurch
+Cleveland
+Colombo
+Columbus
+Concepción
+Copenhagen
 Cordoba
 Cork
-Curacao
+Cuiabá
+Curitiba
+Da Nang
 Dakar
-Dar es Salaam
-Delhi
-Demerara-Mahaica
+Dalian
+Dallas
+Dammam
+Dar Es Salaam
+Denpasar
+Denver
+Detroit
 Dhaka
-Distrito Capital de Bogota
-Distrito Federal
-Distrito Nacional (Santo Domingo)
 Djibouti
-Dubayy
+Doha
+Dubai
 Dublin
-England
-Erevan
-Esch-sur-Alzette
-Espirito Santo
-Florida
-Francisco Morazan
+Durban
+Düsseldorf
+Edinburgh
+Ekaterinburg
+Entebbe
+Erbil
+Florianópolis
+Fortaleza
+Foshan
+Frankfurt
 Fukuoka
-Gauteng
-Geneve
-Georgia
-Goias
-Grad Zagreb
-Greater Accra
-Guatemala
-Guayas
-Gujarat
-Ha Noi
-Hagatna
+Fuzhou
+Gaborone
+Geneva
+Georgetown
+Goiânia
+Gothenburg
+Guadalajara
+Guam
+Guangzhou
+Guatemala City
+Guayaquil
+Guiyang
+Haifa
+Haikou
+Halifax
 Hamburg
+Hanoi
 Harare
-Harjumaa
-Hawaii
-Hefa
-Hessen
-Ho Chi Minh
-Hofudborgarsvaedi
-Hong Kong
-Hovedstaden
-Ile-de-France
-Illinois
-Indiana
+Helsinki
+Hengshui
+Ho Chi Minh City
+Hobart
+Hong Kong*
+Honolulu
+Houston
+Huainan
+Hyderabad
+Indianapolis
 Islamabad
 Istanbul
+Itajaí
 Izmir
-Jakarta Raya
-Jalisco
-Johor
-Kadiogo
-Kaohsiung
-Karbala'
-Karnataka
-Kentriki Makedonia
-Kerala
-Khabarovskiy kray
-Khulna
+Jacksonville
+Jakarta
+Jashore
+Jeddah
+Jinan
+Johannesburg
+Johor Bahru
+Joinville
+Juazeiro do Norte
+Kannur
+Kanpur
+Kansas City
+Kaohsiung City
+Karachi
+Kathmandu
+Khabarovsk
+Kigali
 Kingston
 Kinshasa
-Krasnoyarskiy kray
-Krung Thep Maha Nakhon
-Kwazulu-Natal
+Kochi
+Kolkata
+Krasnoyarsk
+Kuala Lumpur
+Kunming
+Kuwait City
 Kyiv
 La Paz
 Lagos
-Lazio
-Lefkosia
+Lahore
+Langfang
+Lanzhou
+Las Vegas
 Lima
-Lisboa
-Littoral
-Lombardia
+Lisbon
+London
+Los Angeles
 Luanda
-Luxembourg
-Macao
-Madrid, Comunidad de
-Maharashtra
-Maine
-Makkah al Mukarramah
+Luxembourg City
+Lyon
+Macau
+Madrid
 Male
+Manama
+Manaus
+Manchester
 Mandalay
-Manitoba
+Manila
 Maputo
-Masqat
-Massachusetts
-Mato Grosso
-Mazowieckie
-Michigan
-Minas Gerais
-Minnesota
-Minskaya voblasts'
-Misamis Oriental
-Missouri
+Marseille
+McAllen
+Medellín
+Melbourne
+Memphis
+Mexico City
+Miami
+Milan
+Minneapolis
+Minsk
 Mombasa
-Montserrado
-Moskva
-Nairobi City
-National Capital Region
-Nebraska
+Montgomery
+Montréal
+Moscow
+Mumbai
+Munich
+Muscat
+Nagpur
+Naha
+Nairobi
+Najaf
+Nanchang
+Nashville
+Nasiriyah
 Neuquen
-Nevada
-New Jersey
-New Mexico
-New South Wales
-New York
-Noord-Holland
-Nordrhein-Westfalen
-North Carolina
-Nouvelle-Aquitaine
-Nova Scotia
-Odisha
-Ohio
-Okinawa
-Oklahoma
-Ontario
+New Delhi
+Newark
+Nicosia
+Norfolk
+Nouméa
+Oklahoma City
+Omaha
 Oran
-Oregon
 Osaka
 Oslo
-Ouest
-Panama
-Para
+Ottawa
+Ouagadougou
+Palermo
+Palmas
+Panama City
 Paramaribo
-Parana
-Pennsylvania
-Pernambuco
+Paris
+Patna
+Perth
+Philadelphia
 Phnom Penh
-Pichincha
+Phoenix
+Pittsburgh
 Port Louis
-Praha, Hlavni mesto
-Provence-Alpes-Cote-d'Azur
-Province Sud
-Punjab
-Quebec
-Queensland
+Port of Spain
+Portland
+Porto Alegre
+Prague
+Qingdao
 Queretaro
+Quito
+Raleigh
 Ramallah
-Region Metropolitana de Santiago
-Reunion
+Recife
+Reykjavík
+Ribeirão Preto
+Richmond
 Riga
-Rio Grande do Sul
 Rio de Janeiro
-Saint George
-Saint Michael
+Riyadh
+Rome
+Sacramento
+Saint-Denis
+Salt Lake City
+Salvador
+San Antonio
+San Diego
+San Francisco
 San Jose
-Sankt-Peterburg
-Santa Catarina
+San José
+San Juan
 Santiago
-Sao Paulo
-Saskatchewan
-Scotland
-Seoul-teukbyeolsi
-Sicilia
-Sindh
+Santiago de los Caballeros
+Santo Domingo
+Saskatoon
+Seattle
+Seoul
+Shanghai
+Shaoxing
+Shenzhen
 Singapore
-Sofia (stolitsa)
-South Australia
-South Dakota
-South East
-Stockholms lan
+Sioux Falls
+Skopje
+Sofia
+Sorocaba
+St. George's
+St. Louis
+St. Petersburg
+Stockholm
+Stuttgart
+Sulaymaniyah
 Surat Thani
-Sverdlovskaya oblast'
-Taipei
-Tamil Nadu
-Tasmania
+Suva
+Sydney
+São José do Rio Preto
+São José dos Campos
+São Paulo
+Tahiti
+Taipei*
+Taizhou
+Tallahassee
+Tallinn
+Tampa
+Tarlac City
+Tashkent
 Tbilisi
+Tegucigalpa
 Tel Aviv
-Telangana
-Tennessee
-Texas
+Thessaloniki
 Thimphu
-Tirane
+Tianjin
+Timbo
+Tirana
 Tokyo
-Toshkent
+Toronto
 Tunis
-Tverskaya oblast'
+Tver
+Uberlândia
 Ulaanbaatar
-Utah
-Uttar Pradesh
-Uusimaa
-Vastra Gotalands lan
-Viangchan
-Victoria
-Ville de Kigali
-Vilniaus apskritis
-Virginia
-Washington
-West Bengal
-Western Australia
-Western Cape
-Western Province
-Wien
-Wilayah Persekutuan Kuala Lumpur
+Valparaíso
+Vancouver
+Vienna
+Vientiane
+Vilnius
+Vitoria
+Warsaw
+Willemstad
+Winnipeg
+Wuhu
+Xianyang
+Yamoussoukro
 Yangon
+Yangquan
+Yerevan
 Yogyakarta
-Zurich
+Zagreb
+Zhengzhou
+Zhongshan
+Zibo
+Zürich
 ```
