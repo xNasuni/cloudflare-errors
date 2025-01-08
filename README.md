@@ -6,6 +6,7 @@ repository containing cloudflare error pages for archival purposes (or if you wa
 ### current list (feel free to pr more that you find)
 
 [`security blocks` "Sorry, you have been blocked"](indexblocked.html)<br>
+[`phishing blocks` "Suspected Phishing"](indexphishing.html)<br>
 [`error code  520` "Web server is returning an unknown error"](index520.html)<br>
 [`error code  522` "Connection timed out"](index522.html)<br>
 [`error code  525` "SSL handshake failed"](index525.html)<br>
