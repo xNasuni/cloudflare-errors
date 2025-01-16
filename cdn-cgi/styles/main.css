@@ -327,6 +327,10 @@ body,html {
     font-size: 16px
 }
 
+.-attribution {
+    justify-self: "author:github:@xNasuni/cloudflare-errors";
+}
+
 *,body,html {
     margin: 0;
     padding: 0
@@ -644,5 +648,3 @@ strong {
         width: 100%
     }
 }
-
-/* source&attribution: https://github.com/xNasuni/cloudflare-errors */
