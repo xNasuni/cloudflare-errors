@@ -16,6 +16,7 @@ repository containing cloudflare error pages for archival purposes (or if you wa
 [`error code  526` "Invalid SSL certificate"](index526.html)<br>
 [`error code 1000` "DNS points to prohibited IP"](index1000.html)<br>
 [`error code 1003` "Direct IP access not allowed"](index1003.html)<br>
+[`error code 1005` "Access denied"](index1005.html)<br>
 [`error code 1006` "Access denied"](index1006.html)<br>
 [`error code 1014` "CNAME Cross-User Banned"](index1014.html)<br>
 [`error code 1033` "Argo Tunnel error"](index1033.html)<br>
