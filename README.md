@@ -19,7 +19,8 @@ repository containing cloudflare error pages for archival purposes (or if you wa
 [`error code 1005` "Access denied"](index1005.html)<br>
 [`error code 1006` "Access denied"](index1006.html)<br>
 [`error code 1014` "CNAME Cross-User Banned"](index1014.html)<br>
-[`error code 1033` "Argo Tunnel error"](index1033.html)<br>
+[`error code 1033` "Cloudflare Tunnel error"](index1033_1.html)<br>
+[`error code 1033` "Argo Tunnel error"](index1033_2.html)<br>
 ---
 [`id ray generator preview`](rayid.html)
 
