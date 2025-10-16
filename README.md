@@ -10,8 +10,8 @@ repository containing cloudflare error pages for archival purposes (or if you wa
 [`error code  502` "Bad gateway"](index502.html)<br>
 [`error code  504` "Gateway time-out"](index504.html)<br>
 [`error code  520` "Web server is returning an unknown error"](index520.html)<br>
-[`error code  522` "Connection timed out"](index522.html)<br>
 [`error code  521` "Web server is down"](index521.html)<br>
+[`error code  522` "Connection timed out"](index522.html)<br>
 [`error code  523` "Origin is unreachable"](index523.html)<br>
 [`error code  525` "SSL handshake failed"](index525.html)<br>
 [`error code  526` "Invalid SSL certificate"](index526.html)<br>
