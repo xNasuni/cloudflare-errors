@@ -7,6 +7,7 @@ repository containing cloudflare error pages for archival purposes (or if you wa
 
 [`security blocks` "Sorry, you have been blocked"](indexblocked.html)<br>
 [`phishing blocks` "Suspected Phishing"](indexphishing.html)<br>
+[`error code  500` "Internal server error"](index502.html)<br>
 [`error code  502` "Bad gateway"](index502.html)<br>
 [`error code  504` "Gateway time-out"](index504.html)<br>
 [`error code  520` "Web server is returning an unknown error"](index520.html)<br>
